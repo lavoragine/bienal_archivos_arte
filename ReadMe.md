@@ -48,13 +48,26 @@ III. TRADUCCIONES:
 
 ## problemas
 
-### 
-
 - falta img 5 en: `04.md`
 - falta carpeta imagenes en `06.md`
 - problema con lenguaje inclusivo: 'x' o 'e'
 - registro no existe )o no de esa manera, por lo menos):
     - Yasky, C. & Zaldívar, C. (Eds.). (2022). Museo Internacional de la Resistencia Salvador Allende 1975- 1990. Ediciones MSSA.
     - Demb, S; Teuteberg, S. (2000). *Record Management Toolkit*. London Museums Hub. Museum, Libraries, Archives.
+    - 02, 92: (Cámara de Diputados, 2018, pág.
+20)?
+- cosas estilísticas (libro de estilo?)
 
+## problemas de redacción
 
+02, 29: mismo que... (lo mismo?, el mismo?)
+02, 36: "de" otras disciplinas
+02, 50: Productos para "huevo"?
+02, 87: se vislumbra "en"?
+02, 281: cita 01, reescribir.
+02, 114: asesinar esa coma!
+02, 224: cambiar a:
+"Particularmente, los docentes que por el "tipo de materia" 
+que imparten parecieran no necesitar la incursión al laboratorio, 
+o bien no han terminado de entender o implementar el aprendizaje
+situado.
