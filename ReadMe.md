@@ -71,3 +71,13 @@ III. TRADUCCIONES:
 que imparten parecieran no necesitar la incursión al laboratorio, 
 o bien no han terminado de entender o implementar el aprendizaje
 situado.
+
+## atención
+
+logos instituciones
+forma de citación
+portadas / tipos
+
+archivo con plantilla
+ sol
+ 
