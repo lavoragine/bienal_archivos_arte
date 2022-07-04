@@ -40,7 +40,7 @@ III. TRADUCCIONES:
 
 ## estructura:
 
-- Indice 
+- Índice 
 - Presentación
 - Encuentros disciplinares e interdisciplina: Quiénes y cómo participan en el proceso de registro y activación de las fuentes documentales de las artes
 - Memoria y olvido en las políticas de documentación: Qué y cómo seleccionamos, conservamos, sistematizamos y difundimos acervos artísticos.
@@ -78,6 +78,4 @@ logos instituciones
 forma de citación
 portadas / tipos
 
-archivo con plantilla
- sol
- 
+archivo con plantilla sol
