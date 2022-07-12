@@ -75,7 +75,26 @@ situado.
 
 04, 34: [no lo era] "--hace-- diez años atrás"
 
-04: palabras como "archivo" "fondo" no deberían ser marcadas con mayúsculas a menos que refirieran al nombre entero de una entidad
+04: palabras como "archivo" "fondo" no deberían ser marcadas con mayúsculas a menos que refirieran al nombre entero de una entidad (revisar en las traducciones)
+
+04,20: El Museo que alcanzó a cumplir casi dos años de funcionamiento, la realización de tres exposiciones y a reunir alrededor de 670 obras, quedó abruptamente suspendido luego de golpe de Estado de 1973, con la mayor parte de su colección escondida, algunas de sus obras desaparecidas y su comprometido equipo fundador huyendo hacia el exilio.
+cambiar por: 
+El Museo que alcanzó a cumplir casi dos años de funcionamiento, a realizar tres exposiciones y reunir alrededor de 670 obras, quedó abruptamente suspendido luego del golpe de Estado de 1973, con la mayor parte de su colección escondida, algunas de sus obras desaparecidas y su comprometido equipo fundador huyendo hacia el exilio.
+
+04, 39: cambiar: "por lo menos hace diez años atrás" por "o no lo era diez años atrás"
+
+04, 41: añadir: "resultara" para mantener concordancia.
+
+04: cambiar multiples "si no" por "sino" y "por que" por "porque"
+
+04, 55: cambiar: "una institución cultural amiga con la cual dialogar, pedir ayuda y compartir experiencias."
+por: una institución cultural amiga con la cual dialogar y compartir experiencias y a la cual se podía pedir ayuda.
+
+04,61: cambiar: "la realización dos de mesas conversarción realizadas" por "la realización de dos mesas de conversación que tuvieron lugar"
+
+04,61: sería mucho mejor que "qué motivó ciertas decisiones": "cuáles fueron los motivos de ciertas decisiones"
+
+04,61: en lugar de "Queríamos junto con realizar la investigación" sería mejor: "Junto con realizar la investigación, queríamos..."
 
 ## atención
 
