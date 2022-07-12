@@ -66,11 +66,16 @@ III. TRADUCCIONES:
 02, 87: se vislumbra "en"?
 02, 281: cita 01, reescribir.
 02, 114: asesinar esa coma!
+02, 213: Luego de que finalizara la Revolución mexicana (1910-1917), José Vasconcelos al frente de la Secretaría de Educación Pública (SEP), creada el 3 de octubre de 1921, inició un proyecto nacional que impulsara la educación y la cultura en México, esto derivado del alto índice de analfabetismo que había en el país, aunando al rezago social.
 02, 224: cambiar a:
 "Particularmente, los docentes que por el "tipo de materia" 
 que imparten parecieran no necesitar la incursión al laboratorio, 
 o bien no han terminado de entender o implementar el aprendizaje
 situado.
+
+04, 34: [no lo era] "--hace-- diez años atrás"
+
+04: palabras como "archivo" "fondo" no deberían ser marcadas con mayúsculas a menos que refirieran al nombre entero de una entidad
 
 ## atención
 
