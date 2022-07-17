@@ -97,6 +97,27 @@ por: una institución cultural amiga con la cual dialogar y compartir experienci
 04,61: en lugar de "Queríamos junto con realizar la investigación" sería mejor: "Junto con realizar la investigación, queríamos..."
 
 06: atención a niveles de títulos y listas anidadas!!!
+08: resolver x, e, marca de género, etc....
+09, 25: las Yeguas del Apocalipsis! (cambiar en traducciones)
+09, 32: la canción citada va sin comillas
+09, 47: Según el autor: “ (dos puntos y abre comillas, no una coma)
+09, 49: el nombre correcto es "La Conferencia de las Naciones Unidas sobre Comercio y Desarrollo" (UNCTAD, por sus siglas en inglés, United Nations Conference on Trade and Development)
+09,55: quedo aqui, el texto hay que revisarlo en papel!
+10,15: dirigida (no "dirigido"), eliminar "con"
+10,17: dice "ya que la mayoría de las obras son de Santiago, excepto una que es de Valparaíso", debería decir: "ya que la mayoría de las obras se representaron en Santiago, excepto una que se representó en Valparaíso".
+habría que suprimir: sólo en algunos casos (y las comas)
+10,18: "y una de sus particularidades técnicas que llaman mucho la atención en términos visuales, son los intensos colores que proyectan" > problema de concordancia severo
+10: suprimidas inumerables comas!
+10: la revista se llama "Mundo Diners" o "Mundo Diners Club"
+10,29: dice "lo que nos permitió vincular este archivo entre distintas generaciones, muchos de los cuales no habíamos vivido en dictadura", para hacerlo legible habría que insertar "personas de distintas generaciones", de lo contrario, no hay concordancia.
+10, 31: dice "Una vez iniciada la investigación, nos llamó la atención encontrarnos con otros temas, además de la represión y la violación de derechos humanos, que si bien se constata es un tema fundamental en el desarrollo teatral de la época, y hasta hoy, aparecieron con mucha fuerza propuestas en torno a la fiesta, el color, la música, el show, las lentejuelas, el *pop art* y manifestaciones populares, desde una mezcla estética muy interesante entre los imaginarios de lo antiguo y los de la modernidad neoliberal. "
+
+Debe decir: "Una vez iniciada la investigación, nos llamó la atención encontrarnos con otros temas, además de la represión y la violación de derechos humanos, que si bien se constata son un tema fundamental en el desarrollo teatral de la época, y hasta hoy, aparecieron también con mucha fuerza propuestas en torno a la fiesta, el color, la música, el show, las lentejuelas, el *pop art* y manifestaciones populares, desde una mezcla estética muy interesante entre los imaginarios de lo antiguo y los de la modernidad neoliberal."
+
+10, 41; dice: "¿Cómo se visualiza y comparte un archivo de estas magnitudes y características? ¿Cómo compartir estas 1580 imágens respetando todas las autorías que están incluídas en el teatro? Compartir imágenes de obras teatrales supone exponer una obra colectiva, es decir ,la fotografía teatral, no deja en evidencia solo la autoría del fotógrafo, sino que, además, un sinfín de autorías; una dirección, un diseño, de iluminación, vestuaristas y escenógrafos, e incluso si lo pensamos cualquier foto de una obra de teatro, existe gracias a una producción, y una gestión teatral que también permite su existencia y por tanto su fotografía. Además del archivo mismo, estas imágenes portan o son reflejo de lo que significaba hacer teatro en el Chile de dictadura de esos años (1983-1990). Así, para hacer una efectiva mediación de estas fotografías, en este caso, se hacía necesario la construcción de un relato que nos ayudara a comprender los contextos de creación y producción, no solamente de las fotografías, sino que de las obras teatrales que estas capturan."
+
+Sería mucho mejor: ¿Cómo se visualiza y comparte un archivo de estas magnitudes y características? ¿Cómo compartir estas 1580 imágenes respetando todas las autorías que están incluidas en el teatro? Compartir imágenes de obras teatrales supone exponer una obra colectiva, es decir, la fotografía teatral no deja en evidencia solo la autoría del fotógrafo, sino también un sinfín de otras autorías; una dirección, un diseño, de iluminación, vestuaristas y escenógrafos, e incluso si lo pensamos, cualquier foto de una obra de teatro existe gracias a una producción y a una gestión teatral que también permite su existencia y por tanto su fotografía. Además del archivo mismo, estas imágenes portan o son reflejo de lo que significaba hacer teatro en el Chile de dictadura de esos años (1983-1990). Así, para hacer una efectiva mediación de estas fotografías, en este caso se hacía necesario la construcción de un relato que nos ayudara a comprender los contextos de creación y producción, no solamente de las fotografías, sino que de las obras teatrales que estas capturan.
+
 ## atención
 
 logos instituciones
