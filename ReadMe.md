@@ -96,6 +96,7 @@ por: una institución cultural amiga con la cual dialogar y compartir experienci
 
 04,61: en lugar de "Queríamos junto con realizar la investigación" sería mejor: "Junto con realizar la investigación, queríamos..."
 
+06: atención a niveles de títulos y listas anidadas!!!
 ## atención
 
 logos instituciones
@@ -103,3 +104,10 @@ forma de citación
 portadas / tipos
 
 archivo con plantilla sol
+
+## notas finales
+
+Sería mucho más razonable y eficiente que primero se fijara un texto (edición en castellano) y después se hiciera la traducción.
+
+La plantilla es imprescindible, sobre todo para despejar dudas acerca de la estructura.
+

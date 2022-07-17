@@ -1,0 +1,1 @@
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QEn este marco, quisiéramos compartir, dos programas de trabajo que desarrollamos actualmente, el primero es el \"Programa de Archivos Regionales de Arte Contemporáneo\" que tuvo una primera etapa con el Museo de Arte Moderno de Chiloé y el año pasado, una segunda etapa en la Región de Los Ríos.\\E$"}
