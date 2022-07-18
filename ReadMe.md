@@ -126,6 +126,10 @@ portadas / tipos
 
 archivo con plantilla sol
 
+# Para hacer
+
+[ ] 
+
 ## notas finales
 
 Sería mucho más razonable y eficiente que primero se fijara un texto (edición en castellano) y después se hiciera la traducción.
