@@ -128,7 +128,7 @@ archivo con plantilla sol
 
 # Para hacer
 
-[ ] 
+[ ] falta nota 3 en `06.md` 
 
 ## notas finales
 
