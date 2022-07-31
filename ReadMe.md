@@ -119,7 +119,10 @@ Debe decir: "Una vez iniciada la investigación, nos llamó la atención encontr
 
 Sería mucho mejor: ¿Cómo se visualiza y comparte un archivo de estas magnitudes y características? ¿Cómo compartir estas 1580 imágenes respetando todas las autorías que están incluidas en el teatro? Compartir imágenes de obras teatrales supone exponer una obra colectiva, es decir, la fotografía teatral no deja en evidencia solo la autoría del fotógrafo, sino también un sinfín de otras autorías; una dirección, un diseño, de iluminación, vestuaristas y escenógrafos, e incluso si lo pensamos, cualquier foto de una obra de teatro existe gracias a una producción y a una gestión teatral que también permite su existencia y por tanto su fotografía. Además del archivo mismo, estas imágenes portan o son reflejo de lo que significaba hacer teatro en el Chile de dictadura de esos años (1983-1990). Así, para hacer una efectiva mediación de estas fotografías, en este caso se hacía necesario la construcción de un relato que nos ayudara a comprender los contextos de creación y producción, no solamente de las fotografías, sino que de las obras teatrales que estas capturan.
 
-02_fr.md: añadida traduccion de la nota 4 (que faltaba)
+en_translation: corregir problema recurrente de italicas para institutciones, etc 
+02_en.md: añadida traduccion de la nota 4 (que faltaba)
+03_en.md: correccion traduccion para 62 (open access and open cience")
+04_en.md: traducir notas no traducidas
 
 ## atención
 
