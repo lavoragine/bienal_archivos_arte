@@ -1,10 +1,10 @@
-De la obra al archivo y del archivo a la obra: relaciones entre arte y archivos. Cómo el arte problematiza el archivo.
 
-Isabel García Pérez de Arce
 
-Centro de Documentación de las Artes y Archivos Originales de la Facultad de Arquitectura de la Universidad Católica  
 
-# Del documento al monumento 
+
+
+
+#  
 
 
 Quisiera acercarme a este proyecto, desarrollado entre 2006 y 2011, no sólo a través de una mirada retrospectiva a la conformación de un departamento de archivo de arte contemporáneo y pensamiento crítico en Chile, sino también a las preguntas que dieron origen a una política de archivo y a la configuración de una estructura para un corpus de documentos que, desde sus inicios, se presentó como una plataforma: abierta, flexible y en constante evolución en sus formas de conformar las categorías.
