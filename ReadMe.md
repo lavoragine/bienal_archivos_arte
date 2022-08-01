@@ -123,7 +123,13 @@ en_translation: corregir problema recurrente de italicas para institutciones, et
 02_en.md: añadida traduccion de la nota 4 (que faltaba)
 03_en.md: correccion traduccion para 62 (open access and open cience")
 04_en.md: traducir notas no traducidas
+06_en.md, 46: atención: trad. "ready made" (fixed)
+06_en.md: cuidado "software" a veces en itálicas.
+08_en.md, 49: corregir, 'oaxaca' por 'oaxa'
+08_en.md, 49: rehacer tradución (la original omitía el título de la obra de la que se habla)
 
+08_en.md, 46: no entiendo que "tradujimos y adaptamos para socializar los contenidos a través de un micrositio en línea[^6]." se traduzca como "was published and adapted to socialize the contents and keep long distance researches during the pandemics.", además de suprimir la nota en la traducción.
+10_en.md: falta traducir notas 4-8
 ## atención
 
 logos instituciones
