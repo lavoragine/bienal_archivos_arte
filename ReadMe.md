@@ -28,16 +28,10 @@ Sol Henaro, Centro de Documentación ARKHEIA-UNAM, México.
 
 9. EJE De la obra al archivo y del archivo a la obra: relaciones entre arte y archivo. Qué y cómo del archivo el arte problematiza. 
 Isabel García Pérez de Arce, Jefa de Archivo Originales Facultad de Arquitectura, UC, Chile.
-Isabel García Pérez de Arce, Jefa de Archivo Originales Facultad de Arquitectura, UC, Chile.
 
-10. EJE De la obra al archivo y del archivo a la obra: relaciones entre arte y archivo. Qué y cómo del archivo el arte problematiza. 
+1.  EJE De la obra al archivo y del archivo a la obra: relaciones entre arte y archivo. Qué y cómo del archivo el arte problematiza. 
 Patrizio Gécelé, Archivo de la Facultad de Artes, UC, Chile
-
-III. TRADUCCIONES:
-
-3.1 En el transcurso de la próxima semana, te haré llegar las ponencias traducidas al francés.
-
-3.2 A fin de mes, Consuelo Laclaustra, a quien copio en este correo, te hará llegar las ponencias traducidas al inglés.
+()
 
 ## estructura:
 
@@ -59,7 +53,7 @@ III. TRADUCCIONES:
 20)?
 - cosas estilísticas (libro de estilo?)
 
-## problemas de redacción
+## problemas de redacción / traducción
 
 02, 29: mismo que... (lo mismo?, el mismo?)
 02, 36: "de" otras disciplinas
